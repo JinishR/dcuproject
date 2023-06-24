@@ -1,0 +1,23 @@
+<!-- activity_speaking_tile.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <!-- Display the speaking question -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Describe an advertisement that persuaded you to buy a product.\nYou should say:\n- What advertisement it was\n- Was it shown on TV, radio, or newspaper\n- What was good about that advertisement"
+        android:textSize="18sp"
+        android:layout_margin="16dp" />
+
+    <Button
+        android:id="@+id/record_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Record and Send"
+        android:layout_marginTop="16dp" />
+
+</LinearLayout>

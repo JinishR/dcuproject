@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "431216640575",
+    "project_id": "oetilets",
+    "storage_bucket": "oetilets.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431216640575:android:bbb1fa6a6d9e852563ee8a",
+        "android_client_info": {
+          "package_name": "com.jinish.oetielts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431216640575-b8jcp7deg192d6rk24qiuacrlbhheatq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiRug1nWzYo_I3GINuS99Q5eqlFu43GrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431216640575-b8jcp7deg192d6rk24qiuacrlbhheatq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

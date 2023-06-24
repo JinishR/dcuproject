@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">OETIELTS</string>
+    <string name="app_tagline">Your gateway to Success</string>
+    <string name="Practice_tests">Practice tests</string>
+    <string name="free">Free Materials</string>
+    <string name="Location">visit Us</string>
+    <string name="Community">Community</string>
+    <string name="IELTS">IELTS</string>
+    <string name="OET">OET</string>
+    <string name="ireading">Reading</string>
+    <string name="iwriting">Writing</string>
+    <string name="ispeaking">Speaking</string>
+    <string name="ilistening">Listening</string>
+    <string name="oreading">Reading</string>
+    <string name="owriting">Writing</string>
+    <string name="ospeaking">Speaking</string>
+    <string name="olistening">Listening</string>
+
+
+    <string name="Test_1">Writing</string>
+
+    <string name="Test_2">Reading</string>
+    <string name="Test_3">Listening</string>
+    <string name="Test_4">Speaking</string>
+    <string name="Materials">Study Materials</string>
+    <string name="Writing">writing</string>
+    <string name="Speaking">Speaking</string>
+    <string name="Vocabulary">Vocabulary  and grammar exercises</string>
+    <string name="Grammar">Grammer</string>
+    <string name="Reports">Reports</string>
+    <string name="Reports1">Report summary</string>
+    <string name="Profile">Profile</string>
+    <string name="oetielts">OETIELTS</string>
+    <string name="john_doe">John Doe</string>
+    <string name="todo">TODO</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
